@@ -1,0 +1,18 @@
+.card {
+    height: 250px;
+    margin: 30px;
+    position: relative;
+    width: 325px;
+  }
+  
+  .card > .img-container {
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+    background: black;
+  }
+  .card > .img-container > img {
+    height: 255px;
+  }
+  
+  

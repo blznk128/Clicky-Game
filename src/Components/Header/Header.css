@@ -1,0 +1,11 @@
+.header {
+    width: 100%;
+    color: red;
+    margin-bottom: 10px;
+    font-size: 30px
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 80px
+  }

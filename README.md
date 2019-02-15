@@ -13,4 +13,7 @@ When complete, the application should be deployed to Github Pages. See the READM
 
 This application is a memory game essentially.  The user clicks on images and tries not to click on the same picture, ever, and see how far they can go. If the user clicks on the same picture, the score resets and the game logs their current score before resetting to zero.
 
-Technologies used: React, babel.
+Technologies used: React, babel, css.
+
+Portfolio www.bennyborunda.com <br>
+Demo https://floating-refuge-31933.herokuapp.com/
